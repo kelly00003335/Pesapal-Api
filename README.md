@@ -13,10 +13,10 @@
 - **STK Push Payments**: With services like M-Pesa, Pesapal supports STK Push, where a payment prompt is pushed to a customer’s phone for approval.
 
 ## 💡 Use Cases:
-**E-commerce stores**: Accept payments for online orders.
-**Service providers**: Bill customers for recurring services like utilities or subscriptions.
-**Event organizers**: Sell tickets online and collect payments.
-**Non-profits**: Collect donations through online platforms.
+- **E-commerce stores**: Accept payments for online orders.
+- **Service providers**: Bill customers for recurring services like utilities or subscriptions.
+- **Event organizers**: Sell tickets online and collect payments.
+- **Non-profits**: Collect donations through online platforms.
 Pesapal has become popular in several African countries including Kenya, Uganda, Tanzania, Zambia, Zimbabwe, Malawi, and Rwanda.
 
 ## 💡 Project Overview
