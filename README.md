@@ -1,4 +1,4 @@
-# Consume pesapal api with python
+# Consume pesapal api with python(Initiate stk push) For Mpesa
 
 ## 💡 What is pesapal?
 **Pesapal** is a payment processing platform that provides businesses and individuals in Africa with a convenient and secure way to handle online and mobile payments. It enables merchants to accept payments from customers using various methods such as mobile money (like M-Pesa, Airtel Money), debit and credit cards (Visa, Mastercard, American Express), and bank transfers.
@@ -20,7 +20,7 @@
 Pesapal has become popular in several African countries including Kenya, Uganda, Tanzania, Zambia, Zimbabwe, Malawi, and Rwanda.
 
 ## 💡 Project Overview
-In this project im going to demonstrate how the pesapal can be consumed using python code. This can be used for python applications written in django, flask and streamlit to recieve payments.
+In this project im going to demonstrate how the pesapal can be consumed using python code and initiate an stk push to the users . This can be used for python applications written in django, flask and streamlit to recieve payments.
 - For more info visit; https://developer.pesapal.com/how-to-integrate/e-commerce/api-30-json/api-reference
 - Project code; https://github.com/SHIVOGOJOHN/Pesapal-Api/blob/main/pesapal.py
 
