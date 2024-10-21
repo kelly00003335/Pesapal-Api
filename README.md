@@ -1,4 +1,4 @@
-# Consume pesapal api with python(Initiate stk push) For Mpesa
+# Consume pesapal api with python(Initiate stk push)
 
 ## 💡 What is pesapal?
 **Pesapal** is a payment processing platform that provides businesses and individuals in Africa with a convenient and secure way to handle online and mobile payments. It enables merchants to accept payments from customers using various methods such as mobile money (like M-Pesa, Airtel Money), debit and credit cards (Visa, Mastercard, American Express), and bank transfers.
