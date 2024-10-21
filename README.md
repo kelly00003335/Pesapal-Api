@@ -22,6 +22,6 @@ Pesapal has become popular in several African countries including Kenya, Uganda,
 ## 💡 Project Overview
 In this project im going to demonstrate how the pesapal can be consumed using python code. This can be used for python applications written in django, flask and streamlit to recieve payments.
 - For more info visit; https://developer.pesapal.com/how-to-integrate/e-commerce/api-30-json/api-reference
-- Project code; 
+- Project code; https://github.com/SHIVOGOJOHN/Pesapal-Api/blob/main/pesapal.py
 
 
