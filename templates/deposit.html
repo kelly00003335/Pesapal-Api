@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Deposit - PesaPal</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="deposit-card">
+            <h1>Make a Deposit</h1>
+            <form id="depositForm" action="/process_deposit" method="POST">
+                <div class="input-group">
+                    <label>Amount (KES)</label>
+                    <input type="number" name="amount" required min="1">
+                </div>
+                <div class="input-group">
+                    <label>Phone Number</label>
+                    <input type="tel" name="phone" required pattern="254[0-9]{9}" placeholder="254712345678">
+                </div>
+                <div class="input-group">
+                    <label>First Name</label>
+                    <input type="text" name="fname" required>
+                </div>
+                <div class="input-group">
+                    <label>Last Name</label>
+                    <input type="text" name="lname" required>
+                </div>
+                <button type="submit" class="deposit-btn">Proceed to Payment</button>
+            </form>
+            <div id="status" class="status-message"></div>
+        </div>
+    </div>
+</body>
+</html>
